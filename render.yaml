@@ -1,0 +1,19 @@
+services:
+  # Option 1: Render Static Site (Instant, 100% Free, Global CDN, No Sleep)
+  - type: web
+    name: velorent-portal
+    runtime: static
+    staticPublishPath: ./website
+    buildCommand: ""
+    pullRequestPreviewsEnabled: false
+
+  # Option 2: Render Python Web Service (if backend server execution is preferred)
+  - type: web
+    name: velorent-server
+    runtime: python
+    plan: free
+    buildCommand: ""
+    startCommand: python server.py
+    envVars:
+      - key: PORT
+        value: 10000

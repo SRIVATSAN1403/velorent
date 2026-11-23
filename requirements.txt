@@ -1,0 +1,2 @@
+# VeloRent v2.0 - 2026 Enterprise Edition
+# Built with Python 3 standard library (no heavy external dependencies required)

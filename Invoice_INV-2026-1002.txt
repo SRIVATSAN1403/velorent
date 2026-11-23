@@ -1,0 +1,20 @@
+==========================================================================
+               VELORENT 2026 DIGITAL INVOICE & TAX RECEIPT               
+==========================================================================
+ Invoice ID     : INV-2026-1002
+ Rental Ref     : R-202611-1001
+ Customer Name  : Srivatsan L
+ Mobile Number  : 8667572257
+ Vehicle Rented : City ZX
+ Rental Period  : 2026-11-23 to 2026-11-23 (3 days)
+--------------------------------------------------------------------------
+ Itemized Charges:
+   Base Rental Charge       : Rs. 8400.00
+   VIP Loyalty Discount     : -Rs. 840.00
+   GST (18% Goods & Service): +Rs. 1360.80
+--------------------------------------------------------------------------
+ TOTAL AMOUNT PAID          : Rs. 8920.80
+ VIP Loyalty Points Credited: +892 pts
+ QR Verification Link       : https://velorent.in/verify?id=R-202611-1001&inv=INV-2026-1002
+==========================================================================
+ Thank you for choosing VeloRent. Your digital bill has been sent via SMS.

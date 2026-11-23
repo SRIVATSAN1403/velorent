@@ -1,0 +1,14 @@
+# Binaries and build artifacts
+*.o
+*.obj
+*.log
+*.tmp
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
